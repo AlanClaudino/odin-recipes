@@ -1,6 +1,49 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: lightgray;
+}
 header {
     background-color: #26266c;
     color: white;
     text-align: center;
+    margin-top: 0;
+    padding-top: 10 px;
+}
+header h1 {
+    margin: 0;
+    padding: 20px 0px 20px 0px;
+    text-align: center;
 }
 
+#logo {
+    text-decoration: none;
+    color: white;
+}
+
+main {
+    padding: 20px;
+}
+h2 {
+    margin: 0;
+    padding: 10px 0 20px 0;
+}
+.links {
+    float: left;
+    padding: 20px;
+}
+
+#bbean {
+    width: auto;
+    height: 400px;
+}
+
+#lasagna {
+    width: auto;
+    height: 400px;
+}
+
+#psalad {
+    width: auto;
+    height: 400px;
+}
